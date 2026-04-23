@@ -1,4 +1,6 @@
-public class maxValue{
+//In a string with digits, find the string with the maximum value 
+
+public class maxValueInString{
     public static void main(String[] args) {
         String[] arr = {"5554","545","54","514741","00000065323"};
         String maxS = arr[0];
@@ -17,19 +19,14 @@ public class maxValue{
             if(s.charAt(i) != t.charAt(i)){
                 if(s.charAt(i) > t.charAt(i)) return a;
                 else return b;
-            }
-            
+            }  
         }
         if(a.length() >= b.length()) return a;
         else return b;
-
     }
-
-
     public static String purify(String s){
         for(int i = 0; i < s.length(); i++){
             if(s.charAt(i) != '0') return s.substring(i);
-
         }
         return s;
     }
