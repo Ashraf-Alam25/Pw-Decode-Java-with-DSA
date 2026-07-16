@@ -2,16 +2,18 @@ package Recursion;
 
 import java.util.Scanner;
 
-public class Factorial {
-    public static int fact(int n){
-        if(n==0 || n==1) return 1;
-        else return n*fact(n-1);
+public class printDecreasing {
+    public static void print(int n){
+        if(n==0) return;
+        System.out.print(n+" ");
+        print(n-1);
+        
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter your no: ");
         int n = sc.nextInt();
-        System.out.println(fact(n));
+        print(n);
         sc.close();
     }
 }
