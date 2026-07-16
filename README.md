@@ -37,8 +37,8 @@ PW-Decode-Java-with-DSA
 - ✅ Basic Sorting
 - ✅ Binary Search
 - ✅ String
-- ⏳ Arrays
-- ⏳ Recursion
+- ✅ Arrays
+- ✅ Recursion
 - ⏳ Linked List
 - ⏳ Stack
 - ⏳ Queue
@@ -67,8 +67,8 @@ PW-Decode-Java-with-DSA
 | Basic Sorting | ✅ Completed |
 | Binary Search | ✅ Completed |
 | String | ✅ Completed |
-| Arrays | 🔄 In Progress |
-| Recursion | ⏳ Pending |
+| Arrays | ✅ completed |
+| Recursion | ✅ in-progress |
 | Linked List | ⏳ Pending |
 | Stack | ⏳ Pending |
 | Queue | ⏳ Pending |
