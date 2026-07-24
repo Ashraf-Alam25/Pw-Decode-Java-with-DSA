@@ -20,7 +20,7 @@ public class Patient {
     public int getId(){
         return id;
     }
-
+    @Override
     public String toString(){
         return "Patient ID: "+ id +", Name: "+name+", Gender: "+gender+", Age: "+age+", Address: "+Address; 
     }
