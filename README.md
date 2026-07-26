@@ -39,6 +39,7 @@ PW-Decode-Java-with-DSA
 - ✅ String
 - ✅ Arrays
 - ✅ Recursion
+- ✅ OOPS
 - ⏳ Linked List
 - ⏳ Stack
 - ⏳ Queue
@@ -62,18 +63,19 @@ PW-Decode-Java-with-DSA
 
 ## 📈 Progress
 
-| Topic | Status |
+| Topic  | Status |
 |--------|--------|
 | Basic Sorting | ✅ Completed |
 | Binary Search | ✅ Completed |
-| String | ✅ Completed |
-| Arrays | ✅ completed |
-| Recursion | ✅ in-progress |
-| Linked List | ⏳ Pending |
-| Stack | ⏳ Pending |
-| Queue | ⏳ Pending |
-| Trees | ⏳ Pending |
-| Graph | ⏳ Pending |
+| String        | ✅ Completed |
+| Arrays        | ✅ completed |
+| OOPS          | ✅ completed |
+| Recursion     | ✅ in-progress |
+| Linked List   | ⏳ Pending |
+| Stack         | ⏳ Pending |
+| Queue         | ⏳ Pending |
+| Trees         | ⏳ Pending |
+| Graph         | ⏳ Pending |
 | Dynamic Programming | ⏳ Pending |
 
 ---
