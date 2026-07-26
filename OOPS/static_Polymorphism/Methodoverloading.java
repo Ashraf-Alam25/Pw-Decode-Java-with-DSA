@@ -1,17 +1,14 @@
-package OOPS.Polymorphism;
+package OOPS.static_Polymorphism;
 // false polymorphism
 class Calculator{
     public void add(int a, int b){
         System.out.println("int argument");
-        
     }
     public void add(float a, float b){
         System.out.println("float argument");
-        
     }
     public void add(double a, double b){
-        System.out.println("double argument");
-        
+        System.out.println("double argument");   
     }
 }
 public class Methodoverloading {

@@ -6,6 +6,6 @@ class LoanApp{
 public class StaticVariableApp {
     public static void main(String[] args) {
         System.out.println(LoanApp.rateOfInterest);
-        System.out.println(new LoanApp().rateOfInterest);
+        //System.out.println(new LoanApp().rateOfInterest);
     }
 }
