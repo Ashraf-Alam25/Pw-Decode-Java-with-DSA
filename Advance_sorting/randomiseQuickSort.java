@@ -1,5 +1,3 @@
-package Advance_sorting;
-
 public class randomiseQuickSort {
     public static void swap(int arr[], int i, int j){
         int temp = arr[i];

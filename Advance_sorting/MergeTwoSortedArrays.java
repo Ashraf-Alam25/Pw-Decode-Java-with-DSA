@@ -1,5 +1,3 @@
-package Advance_sorting;
-
 public class MergeTwoSortedArrays {
     public static void print(int arr[]){
         for(int ele : arr){

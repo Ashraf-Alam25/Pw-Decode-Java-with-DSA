@@ -1,5 +1,3 @@
-package Recursion;
-
 public class arrayTraversal {
     public static void print(int i, int arr[]){
         int n = arr.length;

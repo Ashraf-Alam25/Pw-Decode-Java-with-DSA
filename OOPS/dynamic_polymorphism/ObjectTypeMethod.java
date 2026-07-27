@@ -1,4 +1,3 @@
-package OOPS.dynamic_polymorphism;
 class Parent{
     public Object methodOne(){
         return null;

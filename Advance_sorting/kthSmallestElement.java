@@ -1,4 +1,3 @@
-package Advance_sorting;
 public class kthSmallestElement {
     static int ans;
     public static void swap(int arr[], int i, int j){

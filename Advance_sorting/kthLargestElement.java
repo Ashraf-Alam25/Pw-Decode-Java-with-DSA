@@ -1,5 +1,3 @@
-package Advance_sorting;
-
 public class kthLargestElement {
     static int ans;
     public static void swap(int arr[], int i, int j){

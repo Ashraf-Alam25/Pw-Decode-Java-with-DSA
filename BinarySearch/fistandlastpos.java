@@ -1,5 +1,3 @@
-package BinarySearch;
-
 public class fistandlastpos {
     public static int[] ans(int arr[], int target){
         int res[] = {-1,-1};

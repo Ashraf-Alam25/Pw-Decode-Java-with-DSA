@@ -1,4 +1,3 @@
-package OOPS;
 class Account {
     private double balance;
     public double getBalance(double balance){

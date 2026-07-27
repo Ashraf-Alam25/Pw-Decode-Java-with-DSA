@@ -1,5 +1,3 @@
-package Recursion;
-
 public class subset {
     public static void printSubset(int i, String s, String ans){
         if(i ==s.length()){

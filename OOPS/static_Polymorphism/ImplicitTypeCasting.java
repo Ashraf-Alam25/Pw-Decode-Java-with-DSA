@@ -1,4 +1,3 @@
-package OOPS.static_Polymorphism;
 class Cal{
     public void add(int a){
         System.out.println("int argument");

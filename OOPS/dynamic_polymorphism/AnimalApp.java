@@ -1,4 +1,3 @@
-package OOPS.dynamic_polymorphism;
 class Animal{
     public void eat(){
         System.out.println("Animal is Eating...");
@@ -8,25 +7,31 @@ class Animal{
     }
 }
 class Monkey extends Animal{
+    @Override
     public void eat(){
         System.out.println("Monkey steals and eats..");
     }
+    @Override
     public void sleep(){
         System.out.println("Monkey is Sleeping...");
     }
 }
 class Deer extends Animal{
+    @Override
     public void eat(){
         System.out.println("Deer graze and eats...");
     }
+    @Override
     public void sleep(){
         System.out.println("Deer is Sleeping...");
     }
 }
 class Lion extends Animal{
+    @Override
     public void eat(){
         System.out.println("Lion hunts and eats...");
     }
+    @Override
     public void sleep(){
         System.out.println("Lion is Sleeping...");
     }

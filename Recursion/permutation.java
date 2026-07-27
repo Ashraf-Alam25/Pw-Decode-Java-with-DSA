@@ -1,5 +1,3 @@
-package Recursion;
-
 class permutation {
     public static void printPermutations(String ans, String s){
         int n = s.length();

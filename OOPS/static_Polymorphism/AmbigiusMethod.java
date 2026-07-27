@@ -1,4 +1,3 @@
-package OOPS.static_Polymorphism;
 class Cals{
     public void add(int a, float b){
         System.out.println("int - float argument");

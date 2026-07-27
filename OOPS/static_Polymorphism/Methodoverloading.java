@@ -1,4 +1,3 @@
-package OOPS.static_Polymorphism;
 // false polymorphism
 class Calculator{
     public void add(int a, int b){

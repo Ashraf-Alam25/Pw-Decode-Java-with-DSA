@@ -1,10 +1,10 @@
-package OOPS.dynamic_polymorphism;
 class Parent{
     void methodOne(){
         System.out.println("Hello from Parent class...");
     }
 }
 class Child extends Parent{
+    @Override
     public void methodOne(){
         System.out.println("Hello from Child class...");
     }

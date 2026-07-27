@@ -1,5 +1,3 @@
-package Recursion;
-
 public class stringTraversal {
     public static void print(int i, String s){
         int n = s.length();

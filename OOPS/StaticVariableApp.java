@@ -1,4 +1,3 @@
-package OOPS;
 class LoanApp{
     static float rateOfInterest = 9.0f;
         

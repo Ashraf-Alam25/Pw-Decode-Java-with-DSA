@@ -1,5 +1,3 @@
-package Advance_sorting;
-
 public class QuickSortAlgo {
     public static void swap(int arr[], int i, int j){
         int temp = arr[i];

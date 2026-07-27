@@ -1,5 +1,3 @@
-package Advance_sorting;
-
 public class InversionCount {
     static int count;
     public static void print(int arr[]){

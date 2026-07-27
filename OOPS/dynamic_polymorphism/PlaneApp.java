@@ -1,4 +1,3 @@
-package OOPS.dynamic_polymorphism;
 class Plane {
     public void takeOff() {
         System.out.println("Plane tookOff...");

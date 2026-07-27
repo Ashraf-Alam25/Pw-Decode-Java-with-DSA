@@ -1,4 +1,3 @@
-package OOPS;
 class Person{
     public String name;
     public String address;

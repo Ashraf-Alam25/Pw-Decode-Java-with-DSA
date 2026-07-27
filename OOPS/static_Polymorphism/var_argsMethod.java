@@ -1,4 +1,3 @@
-package OOPS.static_Polymorphism;
 class AdvancedCalculator{
     public void add(int... args){
         int sum = 0;

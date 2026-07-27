@@ -1,4 +1,3 @@
-package OOPS.dynamic_polymorphism;
 class Parent{
     public final void methodOne(){
         System.out.println("ParentClass:: methodOne()");

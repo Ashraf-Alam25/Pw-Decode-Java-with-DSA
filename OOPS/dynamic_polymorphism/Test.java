@@ -1,4 +1,3 @@
-package OOPS.dynamic_polymorphism;
 class Parent {
     public void property() {
         System.out.println("Land+Cash+Gold");
