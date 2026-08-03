@@ -1,0 +1,23 @@
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.PriorityQueue;
+
+public class NearlySortedK {
+    public static void main(String[] args) {
+        int arr[] = {6,5,3,2,8,10,9};
+        int k = 3;
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        List<Integer> ans = new ArrayList<>();
+        for(int ele : arr){
+            pq.add(ele);
+            if(pq.size() > k) ans.add(pq.remove());
+        }
+        while(!pq.isEmpty()) ans.add(pq.remove());
+        
+        for (int i = 0; i < ans.size(); i++) {
+            System.out.print(ans.get(i)+" ");
+        }
+    }
+    
+}
