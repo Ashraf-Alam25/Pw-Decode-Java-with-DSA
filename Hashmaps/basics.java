@@ -14,7 +14,7 @@ public class basics {
         System.out.println(map.containsValue(0));
 
         System.out.println(map.size());
-        System.out.println(map.remove("tammana"));
+        System.out.println(map.remove("tamm"));
         System.out.println(map+" "+map.size());
     }
 }
