@@ -40,13 +40,13 @@ PW-Decode-Java-with-DSA
 - ✅ Arrays
 - ✅ Recursion
 - ✅ OOPS
-- ⏳ Linked List
-- ⏳ Stack
-- ⏳ Queue
-- ⏳ Trees
-- ⏳ Binary Search Tree
-- ⏳ Heap
-- ⏳ Hashing
+- ✅ Linked List
+- ✅ Stack
+- ✅ Queue
+- ✅ Trees
+- ✅ Binary Search Tree
+- ✅ Heap
+- ✅ Hashing
 - ⏳ Graph
 - ⏳ Dynamic Programming
 
@@ -70,11 +70,11 @@ PW-Decode-Java-with-DSA
 | String        | ✅ Completed |
 | Arrays        | ✅ completed |
 | OOPS          | ✅ completed |
-| Recursion     | ✅ in-progress |
-| Linked List   | ⏳ Pending |
-| Stack         | ⏳ Pending |
-| Queue         | ⏳ Pending |
-| Trees         | ⏳ Pending |
+| Recursion     | ✅ completed |
+| Linked List   | ✅ completed |
+| Stack         | ✅ completed |
+| Queue         | ✅ completed |
+| Trees         | ✅ completed |
 | Graph         | ⏳ Pending |
 | Dynamic Programming | ⏳ Pending |
 
@@ -83,7 +83,6 @@ PW-Decode-Java-with-DSA
 ## 💻 Coding Platforms
 
 - LeetCode
-- CodeChef
 - GeeksforGeeks
 
 ---
