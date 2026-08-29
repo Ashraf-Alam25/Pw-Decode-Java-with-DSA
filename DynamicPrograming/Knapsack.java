@@ -14,9 +14,9 @@ public class Knapsack {
         int c = 8;
         int n = wt.length;
         int dp[][] = new int[n][c+1];
-        for(int i = 0; i < dp.length; i++){
-            for(int j = 0; j < dp[0].length; j++){
-                dp[i][j] = -1;
+        for (int[] dp1 : dp) {
+            for (int j = 0; j < dp[0].length; j++) {
+                dp1[j] = -1;
             }
         }
         Knapsack ob = new Knapsack();
