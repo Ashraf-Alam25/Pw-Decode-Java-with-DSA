@@ -1,9 +1,7 @@
 public class SubsetSumMemo {
     
     private static boolean  subset(int i, int[] arr, int target, int[][] dp) {
-        if(i == arr.length){
-            return target == 0;
-        }
+        if(i == arr.length) return target == 0;
         if(dp[i][target] != -1) return (dp[i][target] ==1);
         boolean ans = false;
         boolean skip = subset(i+1, arr, target, dp);
