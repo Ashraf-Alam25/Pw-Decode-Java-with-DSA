@@ -47,8 +47,8 @@ PW-Decode-Java-with-DSA
 - ✅ Binary Search Tree
 - ✅ Heap
 - ✅ Hashing
+- ✅ Hashing Dynamic Programming
 - ⏳ Graph
-- ⏳ Dynamic Programming
 
 ---
 
@@ -75,8 +75,8 @@ PW-Decode-Java-with-DSA
 | Stack         | ✅ completed |
 | Queue         | ✅ completed |
 | Trees         | ✅ completed |
+| Dynamic Programming | ✅ completed |
 | Graph         | ⏳ Pending |
-| Dynamic Programming | ⏳ Pending |
 
 ---
 
